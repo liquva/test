@@ -3,12 +3,9 @@
 public class Main {
     public static void main(String[] args) {
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome! фыавы");
-
-
+        System.out.printf("Hello and welcome! dvsf");
 
         for (int i = 1; i <= 5; i++) {
-
 
 
             System.out.println("i = " + i);
